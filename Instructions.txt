@@ -1,0 +1,12 @@
+#---------------------------------------------------------------------
+#Author: Bhavishya Mathur
+#---------------------------------------------------------------------
+
+This is a simple script using the subdb.com database for downloading the subtitles of movies and videos using thei API. This is is nitial stage so it supports only basic formats and languages. The step by step guide to use the the script [For windows only] is as follows:
+1. Copy the Subtitlecommand file to the sendto menu of your system. This can be accessed by typing "shell:sendto" in th address bar.
+2.Copy the downloader file in the C drive of your system. 
+3.Now for using the script just right click on the video and select option sendto, and you will see an option to be Subtitlecommand. Click on it and Voila! 
+
+Thank you for using my script.
+
+ 
